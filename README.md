@@ -1,2 +1,2 @@
 # dupper-go
-A crawler to get comics automatically from d-upp.net
+__注意：该程序尚未开发完毕，请勿用于生产环境__
